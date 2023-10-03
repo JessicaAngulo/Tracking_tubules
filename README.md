@@ -8,4 +8,4 @@ Usage:
 1. Download the folder from Github.
 2. In Matlab, click the folder containing all codes, and right click: Add to folders and subfolders.
 3. Open the live script
-4. Follow the instructions of the live script by executing the sections.
+4. Follow the instructions of the live script "Tracking_analysis_tubules.mlx" by executing the sections.
